@@ -8,7 +8,7 @@
 # https://github.com/cu-ecen-aeld/ldd3 (README)
 ##############################################################
 
-LDD_VERSION = '305ca50f1166a77e89611a8ba5e9759c56725969'
+LDD_VERSION = 'db98b7b3dd9ab82b9258b3792a76e00ae94c08bb'
 LDD_SITE = 'git@github.com:cu-ecen-aeld/assignment-7-VenetiaFurtado.git'
 LDD_SITE_METHOD = git
 LDD_GIT_SUBMODULES = YES
